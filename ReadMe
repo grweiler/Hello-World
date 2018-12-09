@@ -1,2 +1,5 @@
 I am a beginner trying to get stated with programing an Arduino Uno. 
 The code stored her is not original, but rather modified versions of downloads of sample code from a variety of sources that I hope to modify for my purposes.
+The batches of code are called Sketches
+The Libraries used are provided by the manufacurer of a component or fron other Arduino owners sharing code
+I am using Git hub because Popolu, the manufacuturer of the LED strip, puts there Sketches here.
